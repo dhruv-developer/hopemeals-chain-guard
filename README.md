@@ -116,13 +116,6 @@ The app uses a comprehensive design system with:
 | **Tools** | ELA analysis and NLP summarization |
 | **About** | System information and documentation |
 
-## 🚢 Deployment
-
-### Using Lovable
-1. Open your [Lovable Project](https://lovable.dev/projects/d68042ca-f844-47de-8e19-dc6f9d5b0630)
-2. Click **Share** → **Publish**
-3. Configure custom domain if needed
-
 ### Manual Deployment
 ```bash
 npm run build
@@ -149,11 +142,6 @@ src/
 └── assets/        # Static assets
 ```
 
-## 📖 Documentation
-
-- [Lovable Documentation](https://docs.lovable.dev/)
-- [Backend API Docs](http://127.0.0.1:8000/docs) (when running)
-- [Component Library](https://ui.shadcn.com/)
 
 ## 🤝 Contributing
 
